@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317760446582",
+    "firebase_url": "https://garment-store-4267c.firebaseio.com",
+    "project_id": "garment-store-4267c",
+    "storage_bucket": "garment-store-4267c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317760446582:android:a73458af9fd0e45b2e3f57",
+        "android_client_info": {
+          "package_name": "com.ecommerce.garmentstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317760446582-16sobkobfkb4chqdbdt2lfkush1a5lm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuF_tWW9hArvNytP5h3X709C_9IrPzXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317760446582-16sobkobfkb4chqdbdt2lfkush1a5lm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
